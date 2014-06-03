@@ -1,0 +1,27 @@
+= cliff_hanger
+
+* {Homepage}[https://rubygems.org/gems/cliff_hanger]
+* {Documentation}[http://rubydoc.info/gems/cliff_hanger/frames]
+* {Email}[mailto:]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'cliff_hanger'
+
+== Requirements
+
+== Install
+
+  $ gem install cliff_hanger
+
+== Copyright
+
+Copyright (c) 2014 
+
+See LICENSE.txt for details.
